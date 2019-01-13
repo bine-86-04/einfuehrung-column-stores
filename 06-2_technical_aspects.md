@@ -29,7 +29,7 @@ Sollte es zu einem Ausfall oder Verlust kommen, macht z.B. Cassandra Replikate, 
 
 ## 4.2.4 Systeme
 
-Die bekannten Wide Column Stores, wie Dynamo, Hbase und Cassandra, sind Cross- Plattformen und sind alle in der Programmiersprache Java geschrieben.[MH13] Im Kapitel X werden die bekannten **Systeme XXXX und YYYY** vorgestellt.
+Die bekannten Wide Column Stores, wie Dynamo, Hbase und Cassandra, sind Cross- Plattformen und sind alle in der Programmiersprache Java geschrieben.[MH13] Im Kapitel 6 werden die bekannten Systeme Cassandra und HBase vorgestellt.
 
 
 ***
